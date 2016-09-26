@@ -10,7 +10,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      {% for post in site.posts %}
+      {% for post in site.posts reversed %}
         {% if post.title != null %}
           <a class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {% endif %}
