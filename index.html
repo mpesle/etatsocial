@@ -4,6 +4,9 @@ layout: default
 
 <div class="home">
 
+  {% capture index-include %}{% include index.md %}{% endcapture %}
+  {{ index-include | markdownify }}
+
   <h1 class="page-heading">Séances</h1>
 
   <ul class="post-list">
