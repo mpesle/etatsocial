@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "S2 - Etat social et solidarités (intro)"
-date:   2016-09-27
+date:   2016-10-04
 ---
 
 Podcasts:

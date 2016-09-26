@@ -8,12 +8,10 @@
 # Site settings
 title: État social et solidarités
 author: Manon Pesle
-email: your-email@domain.com
-license: All rights reserved.
+email: manon.pesle@umrpacte.fr
+license: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Site de la conférence de méthodes "Etat social et solidarités", 3e année SRI, groupes 1 et 3.
 baseurl: "/etatsocial" # the subpath of your site, e.g. /blog
 url: "https://mpesle.github.io" # the base hostname & protocol for your site
 future: true
