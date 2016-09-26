@@ -3,7 +3,7 @@ layout: post
 title:  "S2 - Etat social et solidarités (intro)"
 date:   2016-09-27
 ---
-#Ressources complémentaires:#
+# Ressources complémentaires:
 
 - [Direction de la sécurité sociale 2014, *Les chiffres clés de la sécurité sociale*, Août 2015](http://www.securite-sociale.fr/IMG/pdf/chiffres_cles_2015_web.pdf)
 
