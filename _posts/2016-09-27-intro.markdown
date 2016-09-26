@@ -1,9 +1,16 @@
 ---
 layout: post
-title:  "Test post!"
-date:   2016-09-25 13:22:04 +0200
+title:  "S2 - Etat social et solidarités (intro)"
+date:   2016-09-27 13:22:04 +0200
 categories: jekyll update
 ---
+
+Podcasts:
+
+- [La marche de l'histoire - La Sécurité Sociale](http://www.franceinter.fr/emission-la-marche-de-lhistoire-la-securite-sociale)
+- [La marche de l'histoire - ATD Quart Monde : "aux riens-du-tout, la nation reconnaissante"](http://www.franceinter.fr/emission-la-marche-de-lhistoire-atd-quart-monde-aux-riens-du-tout-la-nation-reconnaissante)
+- [http://www.franceinter.fr/emission-la-marche-de-l-histoire-le-temoin-du-vendredi-jean-michel-belorgey-et-linvention-du-rmi]
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
