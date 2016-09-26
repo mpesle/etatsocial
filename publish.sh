@@ -2,5 +2,5 @@
 
 git checkout gh-pages
 git rebase master
-git push origin gh-pages
+git push origin master gh-pages
 git checkout master
