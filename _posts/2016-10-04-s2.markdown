@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "S2 - Etat social et solidarités (intro)"
-date:   2016-09-27
+date:   2016-10-04
 ---
 # Ressources complémentaires:
 
@@ -11,11 +11,13 @@ date:   2016-09-27
 
 - [Cour des Comptes, *La lutte contre les fraudes aux cotisations sociales : des enjeux sous-estimés, une action à intensifier*, septembre 2014](https://www.ccomptes.fr/content/download/73459/1911669/version/1/file/rapport_securite_sociale_lutte_fraudes_cotisations.pdf)
 
-- Numéro spécial "Ceux qui ne demandent rien", *Vie sociale* n°1, 2008, 128 p.
-- Numéro spécial "L'Etat social à l'épreuve de la crise financière de 2008. Pourquoi l'austérité ? Perspectives comparées", *Interventions économiques*, 52, 2015.
+- [Numéro spécial "Ceux qui ne demandent rien", *Vie sociale* n°1, 2008, 128 p.](https://www.cairn.info/revue-vie-sociale-2008-1-page-5.htm)
+- [Numéro spécial "L'Etat social à l'épreuve de la crise financière de 2008. Pourquoi l'austérité ? Perspectives comparées", *Interventions économiques*, 52, 2015.](http://interventionseconomiques.revues.org/2413)
 - Alain Supiot, *Grandeur et misère de l'État social*, Paris, Fayard, Collège de France, coll. « Leçons inaugurales du Collège de France », 2013.
 
 - [Dubet François, « Nous avons choisi l’inégalité », *Sciences humaines*, 16 février 2015, no 267, p. 19‑19](https://www.cairn.info/magazine-sciences-humaines-2015-2-page-19.htm)
+
+- [Duvoux Nicolas, « L'injonction biographique dans les politiques sociales. Spécifité exemplarité de l'insertion », Informations sociales 2009/6 (n° 156), p. 114-122.](http://www.cairn.info/revue-informations-sociales-2009-6-page-114.htm)
 
 - [Palier Bruno, Crépin Christiane et Dauphin Sandrine, « Les défis de la protection sociale française dans un contexte d'européanisation », *Informations sociales* 1/2013 (n° 175) , p. 14-21](www.cairn.info/revue-informations-sociales-2013-1-page-14.htm)
 
