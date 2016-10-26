@@ -3,6 +3,9 @@ layout: post
 title:  "S4 - La santé pour tous ?"
 date:   2016-10-18
 ---
+# Support de cours:
+[Diaporama S4]({{ site.baseurl }}/doc/CM_ESS_slides_S4.pdf)
+
 # Ressources complémentaires:
 
 - Avril Christelle, (2014), *Les Aides à domicile : un autre monde populaire*, Paris, La Dispute, collection  « Corps, Santé, Société ».

@@ -3,6 +3,9 @@ layout: post
 title:  "S3 - Le travail, un fait social"
 date:   2016-10-11
 ---
+# Support de cours:
+[Diaporama S3]({{ site.baseurl }}/doc/CM_ESS_slides_S3.pdf)
+
 # Ressources complémentaires:
 
 - ["Quoi de neuf dans le salariat ?", *Revue ¿Interrogations* n°12, juin 2011 [en ligne]](http://www.revue-interrogations.org/-No12-Quoi-de-neuf-dans-le-salariat-)

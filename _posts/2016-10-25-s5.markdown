@@ -3,6 +3,9 @@ layout: post
 title:  "S5 - Le vieillissement de la population et ses enjeux"
 date:   2016-10-25
 ---
+# Support de cours:
+[Diaporama S5]({{ site.baseurl }}/doc/CM_ESS_slides_S5.pdf)
+
 # Ressources complémentaires:
 
 - [Campéon Arnaud, Le Bihan Blanche, Martin Claude, "La prise en charge des personnes âgées dépendantes en Europe : le vécu des aidants familiaux", *Vie Sociale* n°4, 2012/4](http://www.cairn.info/resume.php?ID_ARTICLE=VSOC_124_0111)
