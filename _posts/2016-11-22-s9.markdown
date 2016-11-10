@@ -5,4 +5,5 @@ date:   2016-11-29
 ---
 # Ressources complémentaires:
 
-- 
+- [Riot Laurent, "Des dispositifs d’insertion en quête de jeunes « en difficulté » ?", Atelier 2, Colloque "La fabrique des populations problématiques par les politiques publiques", juin 2007, Nantes](http://www.msh.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?CODE_FICHIER=1180684993752&ID_FICHE=1327)
+
