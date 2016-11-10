@@ -1,17 +1,38 @@
 ---
 layout: post
-title:  "S9 - Jeunesse, n'est­ce vraiment qu'un mot ?"
+title:  "S9 - Jeunesse, n'est-­ce vraiment qu'un mot ?"
 date:   2016-11-29
 ---
 # Ressources complémentaires:
 
+- [Beaud Stéphane, Pialoux Michel, "La "racaille" et les "vrais jeunes". Critique d'une vision binaire du monde des cités, *Liens socio n°2, novembre 2005](www.liens-socio.org/IMG/pdf/dossiers_liens_socio_02_beaud_pialoux.pdf)
+
+- [Bellot Céline et Loncle Patricia (dir.), "L'accompagnement des jeunes en difficulté, *Lien social et politique* n°70, 2013](http://id.erudit.org/iderudit/1021152ar?integral=oui/)
+Notamment :
+	- [Lima Léa, Trombert Christophe, "L'assistance-chômage des jeunes sous condition d'accompagnement. De quelques mécanismes du non-recours par éviction"](http://id.erudit.org/iderudit/1021154ar?integral=oui)
+	- [Cauvier Johanne, Desmarais Danielle, "L'accompagnement éducatif des jeunes en processus de raccrochage scolaire à l'éducation des adultes : entre contrôle, service et relation"](http://id.erudit.org/iderudit/1021155ar?integral=oui)
+	- [Marlière Eric, "Les recompositions culturelles des « jeunes de cité » à l'épreuve des déterminismes sociaux et des effets du chômage, de la discrimination et de la ségrégation urbaine"](http://id.erudit.org/iderudit/1021158ar?integral=oui)
+	- [Becquet Valérie, "« Jeunes des quartiers difficiles » en service civique : du ciblage politique d'un public aux usages juvéniles"](http://id.erudit.org/iderudit/1021159ar?integral=oui)
+	- [Muniglia Valérie, Rothé Céline, "Parcours de jeunes en grande difficulté : à l'interaction des logiques d'intervention professionnelles et des usages juvéniles de l'aide sociale"](http://id.erudit.org/iderudit/1021161ar?integral=oui)
+	- [Dupont Hugo, "Des difficultés scolaires et familiales à la prise en charge totale : le cas des jeunes orientés en Institut thérapeutique, éducatif et pédagogique"](http://id.erudit.org/iderudit/1021165ar?integral=oui)
+		
+- [Bourdieu Pierre, "La "jeunesse" n'est qu'un mot. Entretien avec Anne-Marie Métailié", in *Questions de sociologie*, Éditions de Minuit, 1984. Ed. 1992 pp.143-154.](http://www.homme-moderne.org/societe/socio/bourdieu/questions/jeuness.html)
+
 - Galland Oliver, *Les jeunes*, La Découverte - Repères, 2009
 
-- Kramarz Francis, Viarengo Martina, *Ni en emploi, ni en formation. Des jeunes laissés pour compte*, Paris, Les Presses de Sciences Po, coll. « Sécuriser l'emploi », 2015, 112 p
+- Kramarz Francis, Viarengo Martina, *Ni en emploi, ni en formation. Des jeunes laissés pour compte*, Paris, Les Presses de Sciences Po, coll. « Sécuriser l'emploi », 2015, 112 p.
+
+- Lima Léa, *Pauvres jeunes. Enquête au coeur de la politique sociale de jeunesse*, Nîmes, Champ social, 2016 
 
 - [Mauger Gérard, "La jeunesse n’est qu'un mot. A propos d'un entretien avec Pierre Bourdieu", *Agora Débats/Jeunesses* n° 26, 2001](http://www.persee.fr/doc/agora_1268-5666_2001_num_26_1_1924)
 
+- [Mazouz Sarah, Roux Sébastien (dir.), « Le gouvernement de la jeunesse », *Politix*, vol. 27, n° 108 (2014), 2015, 110 p.](http://www.cairn.info/revue-politix-2014-4.html)
+
 - [Riot Laurent, "Des dispositifs d’insertion en quête de jeunes « en difficulté » ?", Atelier 2, Colloque "La fabrique des populations problématiques par les politiques publiques", juin 2007, Nantes](http://www.msh.univ-nantes.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?CODE_FICHIER=1180684993752&ID_FICHE=1327)
+
+- Truong Fabien, *Jeunesses françaises : bac + 5 made in banlieues*, Paris, La Découverte, 2015.
+
+- Truong Fabien, *Des capuches et des hommes. Trajectoires de « jeunes de banlieue »*, Buchet-Castel, 2013
 
 - [Van de Velde Cécile, "Devenir adulte : quatre modèles européenns", *Agora Débats/Jeunesses n°45*, pp-22-41, 2008](http://www.ressourcesjeunesse.fr/Devenir-adulte-quatre-modeles.html)
 
@@ -22,11 +43,26 @@ date:   2016-11-29
 
 - [Coquard Benoît, "Que sait-on des jeunes ruraux ?" Rapport d'étude / Revue de littérature, INJEP, mars 2014, 46 p.](http://www.injep.fr/veille/que-sait-des-jeunes-ruraux-8419.html)
 
+- [EN3S, "Les jeunes et la protection sociale", Regards protection sociale n°48, novembre 2015](http://en3s.fr/spip.php?action=acceder_document&arg=3874&cle=890f4e905c1f08247079e33eafa42a7d9acbbc9a&file=pdf/regards_no48-web-2.pdf)
+
 - [INJEP, Dossier thématique "Les "jeunes ni en emploi, ni en études, ni en formation", un nouvel indicateur cible des politiques de jeunesse"](http://www.injep.fr/article/les-jeunes-ni-en-emploi-ni-en-etudes-ni-en-formation-un-nouvel-indicateur-cible-des)
 
-- [Le Goaziou v., Prévention spécialisée et prévention de la délinquance : liens, obstacles et enjeux, *Les rapports de recherche de l’ORDCS*, N°2, février 2014, 107 p.](http://ordcs.mmsh.univ-aix.fr/publications/Documents/Rapport_recherche_ORDCS_N2.pdf)
+- [Jauneau Yves, *L’indépendance des jeunes adultes : chômeurs et inactifs cumulent les difficultés*, division Etudes sociales, Insee, septembre 2007](http://www.insee.fr/fr/themes/document.asp?ref_id=ip1156)
+
+- [Le Goaziou Valérie, Prévention spécialisée et prévention de la délinquance : liens, obstacles et enjeux, *Les rapports de recherche de l’ORDCS*, N°2, février 2014, 107 p.](http://ordcs.mmsh.univ-aix.fr/publications/Documents/Rapport_recherche_ORDCS_N2.pdf)
 
 - [ONPES, "Les pauvres en milieu rural et notamment les jeunes ruraux et néo-ruraux. L’invisibilité sociale : publics et mécanismes", 2015, 89 p.](http://www.onpes.gouv.fr/IMG/pdf/Jeunes_ruraux_et_neo-ruraux_Rapport_final.pdf)
 
 - [World Health Organization, *Growing up unequal: gender and socioeconomic differences in young people's health and well-being. Health Behaviour in School-aged Children (HBSC) study: international report from the 2013/2014 survey*, Health Policy for Children and Adolescents n°7, 2016, 277 p.](http://www.euro.who.int/en/health-topics/Life-stages/child-and-adolescent-health/health-behaviour-in-school-aged-children-hbsc/growing-up-unequal-gender-and-socioeconomic-differences-in-young-peoples-health-and-well-being.-health-behaviour-in-school-aged-children-hbsc-study-international-report-from-the-20132014-survey)
+
+
+**Podcasts:**
+
+- ["La jeunesse n'est-elle qu'un mot ?", Emission La marche de l'Histoire, France Culture](https://www.franceinter.fr/emissions/la-marche-de-l-histoire/la-marche-de-l-histoire-10-mars-2016)
+
+- ["Sur la route de la prévention de rue", *Emission Sur la route*, France Culture](https://www.franceculture.fr/emissions/sur-la-route/sur-la-route-de-la-prevention-de-rue?xtmc=jeunes&xtnp=1&xtcr=14)
+
+**Bandes dessinées:**
+
+- Sattouf Riad, *La vie secrète des jeunes*, L'association, 2007.
 
