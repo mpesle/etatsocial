@@ -1,8 +1,39 @@
 ---
 layout: post
-title:  "S7 - L'Etat social et le genre"
+title:  "S7 - Enfance et famille : « bien grandir » et « bien éduquer »"
 date:   2016-11-08
 ---
 # Ressources complémentaires:
 
+- [Numéro spécial : "Protection de l'enfance : constats, réformes et recommandations", *Journal du droit des jeunes*, 2015/9 (N° 349)](http://www.cairn.info/numero.php?ID_REVUE=JDJ&ID_NUMPUBLIE=JDJ_349)
 
+- [Etude sur l'état général des enfants confiés au service de l'ASE de Paris, étude de la Direction de l'Action Sociale de l'Enfance et de la Santé réalisée par le Centre Rhône-Alpes d’Épidémiologie et de Prévention Sanitaire, 2003](http://www.oned.gouv.fr/appel-offre/etude-sur-letat-general-enfants-confies-au-service-lase-paris-0)
+
+- [Aubin Claire, Durand Nicolas, Sitruk Patricia, Sanson Olivia, *Evaluation de l'accueil de mineurs relevant de l'aide sociale à l'enfance hors de leur département d'origine*, Inspection générale des affaires sociales, mars 2012, 214 p.](http://www.ladocumentationfrancaise.fr/rapports-publics/124000156/index.shtml)
+
+- [Baranger Thierry, Salas Denis, « Le juge des enfants fait-il encore autorité ? », *Archives de politique criminelle*, 2008/1 (n° 30), p. 25-35.](http://www.cairn.info/revue-archives-de-politique-criminelle-2008-1-page-25.htm)
+
+- [Cleuziou David, « Le juge des enfants et le placement », Les Cahiers Dynamiques 2006/1 (n°37), p. 28-32.](http://www.cairn.info/revue-les-cahiers-dynamiques-2006-1-page-28.htm)
+
+- [Hourcade Marie-Pierre, « La place du juge des enfants, entre soin, éducation et répression », *VST - Vie sociale et traitements*, 2013/3 (N° 119), p. 39-45.](http://www.cairn.info/revue-vie-sociale-et-traitements-2013-3-page-39.htm)
+
+
+**Podcasts:**
+- Semaine thématique "Justice des mineurs", Emission Sur les docks, France Culture : 
+	
+	Notamment : 
+	- [Paroles de mineurs en prison](https://www.franceculture.fr/emissions/sur-les-docks/paroles-de-mineurs-en-prison)
+	- [Une adolescence délinquante](https://www.franceculture.fr/emissions/sur-les-docks/une-adolescence-delinquante)
+	- [Le péril jeune](https://www.franceculture.fr/emissions/sur-les-docks/le-peril-jeune)
+
+- [Collection enquête, "La présomption de minorité", Emission Sur les docks, France Culture](https://www.franceculture.fr/emissions/sur-les-docks/collection-enquetes-la-presomption-de-minorite)
+
+- ["Les enfants : premières victimes de la pauvreté en France ?", Emission Les matins, France Culture](https://www.franceculture.fr/emissions/les-matins/les-enfants-premieres-victimes-de-la-pauvrete-en-france)
+
+- [Aider les parents à aider leurs enfants ?, Emission Rue des Ecoles, France Culture](https://www.franceculture.fr/emissions/rue-des-ecoles/aider-les-parents-aider-leurs-enfants?xtmc=enfants&xtnp=1&xtcr=1)
+
+- [L'école des parents, Emission Les pieds sur terre, France Culture](https://www.franceculture.fr/emissions/les-pieds-sur-terre/lecole-des-parents-r?xtmc=enfants&xtnp=1&xtcr=8)
+
+
+**Films:**
+- "La Tête haute", Emmanuelle Bercot, 2015, avec Rod Paradot, Catherine Deneuve, Benoit Magimel, Sara Forestier, Diane Rouxel.
