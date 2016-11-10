@@ -3,6 +3,10 @@ layout: post
 title:  "S6 - L'Etat social et le genre"
 date:   2016-11-08
 ---
+# Support de cours:
+[Diaporama S6]({{ site.baseurl }}/doc/CM_ESS_slides_S6.pdf)
+
+
 # Ressources complémentaires:
 
 - Broqua Christophe, *Agir pour ne pas mourir ! Act Up, les homosexuels et le sida*, 2005, Paris: Presses de Sciences Po
