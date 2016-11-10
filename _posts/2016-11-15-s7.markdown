@@ -36,12 +36,11 @@ date:   2016-11-08
 
 **Podcasts:**
 
-- Semaine thématique "Justice des mineurs", Emission Sur les docks, France Culture : 
-
-Notamment : 
+- Semaine thématique "Justice des mineurs", Emission Sur les docks, France Culture :
 	- [Paroles de mineurs en prison](https://www.franceculture.fr/emissions/sur-les-docks/paroles-de-mineurs-en-prison)
 	- [Une adolescence délinquante](https://www.franceculture.fr/emissions/sur-les-docks/une-adolescence-delinquante)
 	- [Le péril jeune](https://www.franceculture.fr/emissions/sur-les-docks/le-peril-jeune)
+
 
 
 - [Collection enquête, "La présomption de minorité", Emission Sur les docks, France Culture](https://www.franceculture.fr/emissions/sur-les-docks/collection-enquetes-la-presomption-de-minorite)
