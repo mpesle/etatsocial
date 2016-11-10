@@ -8,7 +8,8 @@ date:   2016-11-29
 - [Beaud Stéphane, Pialoux Michel, "La "racaille" et les "vrais jeunes". Critique d'une vision binaire du monde des cités, *Liens socio n°2, novembre 2005](www.liens-socio.org/IMG/pdf/dossiers_liens_socio_02_beaud_pialoux.pdf)
 
 - [Bellot Céline et Loncle Patricia (dir.), "L'accompagnement des jeunes en difficulté, *Lien social et politique* n°70, 2013](http://id.erudit.org/iderudit/1021152ar?integral=oui/)
-Notamment :
+
+
 	- [Lima Léa, Trombert Christophe, "L'assistance-chômage des jeunes sous condition d'accompagnement. De quelques mécanismes du non-recours par éviction"](http://id.erudit.org/iderudit/1021154ar?integral=oui)
 	- [Cauvier Johanne, Desmarais Danielle, "L'accompagnement éducatif des jeunes en processus de raccrochage scolaire à l'éducation des adultes : entre contrôle, service et relation"](http://id.erudit.org/iderudit/1021155ar?integral=oui)
 	- [Marlière Eric, "Les recompositions culturelles des « jeunes de cité » à l'épreuve des déterminismes sociaux et des effets du chômage, de la discrimination et de la ségrégation urbaine"](http://id.erudit.org/iderudit/1021158ar?integral=oui)
@@ -16,6 +17,7 @@ Notamment :
 	- [Muniglia Valérie, Rothé Céline, "Parcours de jeunes en grande difficulté : à l'interaction des logiques d'intervention professionnelles et des usages juvéniles de l'aide sociale"](http://id.erudit.org/iderudit/1021161ar?integral=oui)
 	- [Dupont Hugo, "Des difficultés scolaires et familiales à la prise en charge totale : le cas des jeunes orientés en Institut thérapeutique, éducatif et pédagogique"](http://id.erudit.org/iderudit/1021165ar?integral=oui)
 		
+
 - [Bourdieu Pierre, "La "jeunesse" n'est qu'un mot. Entretien avec Anne-Marie Métailié", in *Questions de sociologie*, Éditions de Minuit, 1984. Ed. 1992 pp.143-154.](http://www.homme-moderne.org/societe/socio/bourdieu/questions/jeuness.html)
 
 - Galland Oliver, *Les jeunes*, La Découverte - Repères, 2009
