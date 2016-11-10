@@ -8,15 +8,6 @@
       </h1>
       <p class="lead">{{ site.description }}</p>
     </div>
-
-    <nav class="sidebar-nav">
-      {% for post in site.posts reversed %}
-        {% if post.title != null %}
-          <a class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </nav>
-
     <p>&copy; <a href="mailto:{{ site.email }}">{{ site.author }}</a> {{ site.time | date: '%Y' }}. {{ site.license }}</p>
   </div>
 </div>
