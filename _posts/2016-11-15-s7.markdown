@@ -7,10 +7,6 @@ date:   2016-11-08
 
 - [Numéro spécial : "Protection de l'enfance : constats, réformes et recommandations", *Journal du droit des jeunes*, 2015/9 (N° 349)](http://www.cairn.info/numero.php?ID_REVUE=JDJ&ID_NUMPUBLIE=JDJ_349)
 
-- [Etude sur l'état général des enfants confiés au service de l'ASE de Paris, étude de la Direction de l'Action Sociale de l'Enfance et de la Santé réalisée par le Centre Rhône-Alpes d’Épidémiologie et de Prévention Sanitaire, 2003](http://www.oned.gouv.fr/appel-offre/etude-sur-letat-general-enfants-confies-au-service-lase-paris-0)
-
-- [Aubin Claire, Durand Nicolas, Sitruk Patricia, Sanson Olivia, *Evaluation de l'accueil de mineurs relevant de l'aide sociale à l'enfance hors de leur département d'origine*, Inspection générale des affaires sociales, mars 2012, 214 p.](http://www.ladocumentationfrancaise.fr/rapports-publics/124000156/index.shtml)
-
 - [Baranger Thierry, Salas Denis, « Le juge des enfants fait-il encore autorité ? », *Archives de politique criminelle*, 2008/1 (n° 30), p. 25-35.](http://www.cairn.info/revue-archives-de-politique-criminelle-2008-1-page-25.htm)
 
 - [Becquemin Michèle, « Entre individualisation et « familialisation » de la protection de l’enfance : quelles créations/ innovations institutionnelles ? Analyse comparative de trois associations en quête de légitimité (1920-1960). », *Socio-logos, Revue de l’association française de sociologie*, 2012, no 7](http://socio-logos.revues.org/2639)
@@ -32,6 +28,12 @@ date:   2016-11-08
 - Thin Daniel, *Quartiers populaires: l’école et les familles*, Lyon, Presses universitaires de Lyon, 1998.
 
 - [Tursz Anne, Prévenir les "déviances" chez les jeunes dès leur petite enfance. Un défi pour le nouveau gouvernement", *Le Monde*, 15 mai 2012](http://www.lemonde.fr/idees/article/2012/05/15/prevenir-les-deviances-chez-les-jeunes-des-leur-petite-enfance_1701036_3232.html?xtmc=tursz&xtcr=1)
+
+**Etudes et rapports:**
+
+- [Aubin Claire, Durand Nicolas, Sitruk Patricia, Sanson Olivia, *Evaluation de l'accueil de mineurs relevant de l'aide sociale à l'enfance hors de leur département d'origine*, Inspection générale des affaires sociales, mars 2012, 214 p.](http://www.ladocumentationfrancaise.fr/rapports-publics/124000156/index.shtml)
+
+- [Centre Rhône-Alpes d’Épidémiologie et de Prévention Sanitaire, *Etude sur l'état général des enfants confiés au service de l'ASE de Paris*, étude de la Direction de l'Action Sociale de l'Enfance et de la Santé, 2003](http://www.oned.gouv.fr/appel-offre/etude-sur-letat-general-enfants-confies-au-service-lase-paris-0)
 
 
 **Podcasts:**
