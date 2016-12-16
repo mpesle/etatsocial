@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Examen de la CM"
+date:   2016-12-02
+---
+# Sujet:
+
+- [Sujet 2016-2017]({{ site.baseurl }}/doc/Examen Etat social & solidarités - 2016-17.pdf)
+
+# Documents de la synthèse:
+
+- [Document 1. Philippe Fargues, « Un million de migrants arrivés sans visa en Europe en 2015 : Qui sont-ils ? », *Population & Sociétés* n°532, INED, avril 2016.]({{ site.baseurl }}/doc/1.Population&societes_avril2016.pdf)
+
+- [Document 2. Igor Martinache, « Les migrations au-delà des préjugés », *Alternatives économiques* n° 351, novembre 2015, pp. 90-93.]({{ site.baseurl }}/doc/2.AlterEco_nov2015.pdf)
+
+- [Document 3. Xavier Molénat et Guillaume Duval, « L'Europe face à ses contradictions », *Alternatives économiques* n° 350, octobre 2015, pp. 34-36.]({{ site.baseurl }}/doc/3.AlterEco_oct2015.pdf)
+
+- [Document 4. « Les immigrés récemment arrivés en France. Une immigration de plus en plus européenne », *Insee Première*, n°1524, 2014.]({{ site.baseurl }}/doc/4.InseePremiere_2014.pdf)
+
+- [Document 5. Alexis Spire, « La politique des guichets au service de la police des étrangers », *Savoir/Agir* 2016/2 (N° 36), p. 27-31.]({{ site.baseurl }}/doc/5.Spire_SavoirAgir_2016.pdf)
+
+- [Document 6. Mirna Safi, « Une refondation manquée : Les politiques d’immigration et d’intégration en France », *La vie des idées*, 28 mars 2014.]({{ site.baseurl }}/doc/6.Safi_LaviedesIdees_2014.pdf)
+
+- [Document 7. Céline Mouzon, « La distinction entre réfugiés et migrants économiques ne va pas de soi. Entretien avec Karen Akoka », *AlterEcoplus*, 11 septembre 2015.]({{ site.baseurl }}/doc/7.Akoka_AlterEcoPlus_2015.pdf)
